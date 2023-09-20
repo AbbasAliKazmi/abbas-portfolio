@@ -43,8 +43,7 @@ const Services = () => {
             className='flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mix-blend-lighten mb-12 lg:mb-0'>
             <h2 className='h2 text-accent mb-6'>What I Do</h2>
             <h3 className='h3 max-w-[455px] mb-16'>
-              I am a freelancer front-end developer with over 5 years of experience.
-            </h3>
+            I create sleek, user-friendly websites and applications that bring ideas to life             </h3>
             <button className='btn btn-sm'>See my work</button>
           </motion.div>
           <motion.div 

@@ -40,11 +40,11 @@ const Work = () => {
               <img className='group-hover:scale-125 transaction-all dutation-500' src={Img1} alt="" />
               {/* pretitle */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50 '>
-                <span className='text-gradient'>UI/UX Design</span>
+                <span className='text-gradient'>Bootstrap Design</span>
               </div>
               {/* title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50 '>
-                <span className='text-3xl text-white'>Project Title</span>
+                <span className='text-3xl text-white'>Lissome Website</span>
               </div>
             </div>
           </motion.div>
@@ -62,11 +62,11 @@ const Work = () => {
               <img className='group-hover:scale-125 transaction-all dutation-500' src={Img2} alt="" />
               {/* pretitle */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50 '>
-                <span className='text-gradient'>UI/UX Design</span>
+                <span className='text-gradient'>React/Vite Design</span>
               </div>
               {/* title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50 '>
-                <span className='text-3xl text-white'>Project Title</span>
+                <span className='text-3xl text-white'>Real Esate Website</span>
               </div>
             </div>
             {/* img */}
@@ -77,11 +77,11 @@ const Work = () => {
               <img className='group-hover:scale-125 transaction-all dutation-500' src={Img3} alt="" />
               {/* pretitle */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50 '>
-                <span className='text-gradient'>UI/UX Design</span>
+                <span className='text-gradient'>Tailwind Design</span>
               </div>
               {/* title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50 '>
-                <span className='text-3xl text-white'>Project Title</span>
+                <span className='text-3xl text-white'>Tutors Academy Website</span>
               </div>
             </div>
           </motion.div>
@@ -92,3 +92,6 @@ const Work = () => {
 };
 
 export default Work;
+
+
+// /* my code*/

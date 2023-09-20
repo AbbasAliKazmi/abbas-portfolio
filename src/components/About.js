@@ -32,17 +32,18 @@ const About = () => {
             viewport={{ once: false, amount:0.3}}
             className='flex-1'>
             <h2 className='h2 text-accent'>About me</h2>
-            <h3 className='h3 mb-4'>I am Freelancer Front-end Developer with over 5 years experience. </h3>
+            <h3 className='h3 mb-4'>I am Freelancer Front-end Developer with over 2 years experience. </h3>
             <p className='mb-6'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis iste quibusdam
-              eum facere perferendis temporibus, tempora commodi dolorem!
+            Passionate Web Developer with a strong foundation in computer science and a focus on web 
+            languages and software development. Proficient in HTML, CSS, JavaScript, and various web 
+            frameworks including ReactJS and AngularJS.
             </p>
             {/* stats */}
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
               <div>
                 <div className='text-[40px] fort-tertiary text-gradient mb-2'>
                   {
-                    inView ? <CountUp start={0} end={13} duration={3} /> :
+                    inView ? <CountUp start={0} end={2} duration={3} /> :
                       null}
                 </div>
                 <div className='font-primary text-sm tracking-[2px]'>
