@@ -77,8 +77,10 @@ const About = () => {
               </div>
             </div>
             <div className='flex gap-x-8 items-center'>
-              <button className='btn btn-lg'>Contact Me</button>
-              <a href="#" className='text-gradient btn-link'>
+              <a href="https://www.instagram.com/syed.abbas.ali9/" target="_blank" rel="noopener noreferrer">
+                <button className='btn btn-lg'>Contact Me</button>
+              </a>
+              <a href="/portfolio" className='text-gradient btn-link'>
                 My Portfolio
               </a>
             </div>
