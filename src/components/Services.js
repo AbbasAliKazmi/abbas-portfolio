@@ -44,7 +44,9 @@ const Services = () => {
             <h2 className='h2 text-accent mb-6'>What I Do</h2>
             <h3 className='h3 max-w-[455px] mb-16'>
             I create sleek, user-friendly websites and applications that bring ideas to life             </h3>
-            <button className='btn btn-sm'>See my work</button>
+            <a href="https://github.com/AbbasAliKazmi" target="_blank" rel="noopener noreferrer">
+              <button className='btn btn-sm'>See my work</button>
+            </a>
           </motion.div>
           <motion.div 
              variants={fadeIn('left', 0.5)}
