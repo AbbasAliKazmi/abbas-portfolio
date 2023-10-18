@@ -11,9 +11,16 @@ const Header = () => {
           <a href="syedabbasali1998.aa@gmail.com">
             <img src={Logo} alt="" />
           </a>
-          <button className='btn btn-sm'>
-            Work with me
-          </button>
+          <a href="https://drive.google.com/file/d/1nsiGSJVEbt4AmI7vAE6NaieCwGQ7OKJg/view?usp=drivesdk">
+            <button className='btn btn-sm'>
+              My Resume
+            </button>
+          </a>
+          <a>
+            <button className='btn btn-sm'>
+              Work With Me
+            </button>
+          </a>
         </div>
       </div>
   </header>;
