@@ -87,7 +87,7 @@ const Work = () => {
               <span className='text-gradient'>Next Js Dashboard </span>
             </div>
             {/* title */}
-            <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50 '>
+            <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
               <span className='text-3xl text-white'>Acme Website</span>
             </div>
           </div>
