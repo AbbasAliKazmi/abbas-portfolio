@@ -13,7 +13,7 @@ const Header = () => {
           </a>
           <a href="https://drive.google.com/file/d/1nsiGSJVEbt4AmI7vAE6NaieCwGQ7OKJg/view?usp=drivesdk">
             <button className='btn btn-sm'>
-              My Resume/CV 
+              See my Resume/CV 
             </button>
           </a>
           <a>
