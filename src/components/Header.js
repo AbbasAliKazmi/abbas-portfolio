@@ -12,7 +12,7 @@ const Header = () => {
             <img src={Logo} alt="" />
           </a>
           <div>  
-            <a href="https://drive.google.com/file/d/1nsiGSJVEbt4AmI7vAE6NaieCwGQ7OKJg/view?usp=drivesdk">
+            <a href="https://docs.google.com/document/d/1CRcEOcYJWvVwIo7ixqidvMQJyh5mXWC5/edit?usp=drive_link&ouid=105463417667296566850&rtpof=true&sd=true">
               <button className='ml-10 btn btn-sm'>
                 See my Resume/CV 
               </button>
